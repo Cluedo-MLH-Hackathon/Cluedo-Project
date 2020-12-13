@@ -32,3 +32,7 @@
   section{
     background-color: black!important;    
   }
+  img{
+    border: #fff;
+    border-radius: 10%;
+  }
